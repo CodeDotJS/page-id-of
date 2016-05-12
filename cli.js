@@ -12,7 +12,7 @@ const argv = require('yargs')
 
 	.command('u', colors.cyan.bold('❱ ') + ' find facebook page\'s page id')
 
-	.demand(['u']
+	.demand(['u'])
 
 	.describe('u', 'page\'s name')
 
