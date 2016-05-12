@@ -1,7 +1,7 @@
 {
   "name": "page-id-of",
   "version": "1.0.0",
-  "description": "Shows userid of a facebook user in your console.",
+  "description": "Shows page id of a facebook page in your console.",
   "license": "MIT",
   "repository": {
     "type": "git",
