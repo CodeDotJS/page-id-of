@@ -1,6 +1,14 @@
-# page-id-of
+# ![page-id-of](media/pid.png)
 
-> Shows page id of a facebook page in your console.
+> Command line tool to display ID of a Facebook Page.
+
+<p align="center">
+	<img width="500" src="media/pid.gif">
+	<br>
+	<a href="https://travis-ci.org/CodeDotJS/page-id-of">
+	<img src="https://travis-ci.org/CodeDotJS/page-id-of.svg?branch=master">
+	</a>
+</p>
 
 ## Install 
 
@@ -17,26 +25,12 @@ $ sudo npm install --global page-id-of
 ```
 $ page-id-of
 
-Usage: page-id-of <command> [target]
+	Usage   : page-id-of <page's name>
 
-Commands:
-	
-	u  ❱  find facebook page's page id
+	Example : page-id-of Humorous.Sperm.Official
 
-Options:
-
-	-u  page's name                              [required]
-
-Examples:
-
-	page-id-of -u Humorous.Sperm.Official
-
-Missing required argument: u
+	Help    : page-id-of -h --help
 ```
-
-## Screenshot
-
-![page-id-of](http://rishigiri.com/github/pio.png)
 
 ## Related
 
