@@ -1,7 +1,7 @@
 {
   "name": "page-id-of",
   "version": "1.0.0",
-  "description": "Shows page id of a facebook page in your console.",
+  "description": "Command line tool to display ID of a Facebook Page.",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -34,10 +34,10 @@
     "userid"
   ],
   "dependencies": {
+    "colors": "*",
     "https": "*",
-    "yargs": "*",
-    "update-notifier": "*",
-    "colors": "*"
+    "log-update": "^1.0.2",
+    "update-notifier": "*"
   },
   "devDependencies": {
     "ava": "*",
