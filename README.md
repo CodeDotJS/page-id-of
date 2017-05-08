@@ -10,7 +10,7 @@
 	</a>
 </p>
 
-## Install 
+## Install
 
 ```
 $ npm install --global page-id-of
@@ -20,7 +20,7 @@ __OR__
 $ sudo npm install --global page-id-of
 ```
 
-## Usage 
+## Usage
 
 ```
 $ page-id-of
@@ -34,9 +34,9 @@ $ page-id-of
 
 ## Related
 
-- [facebook-id-of](https://github.com/CodeDotJS/facebook-id-of) : Find userid of a facebook user.
-- [group-id-of](https://github.com/CodeDotJS/group-id-of)       : Find group id of a facebook group.
-- [insta-id-of](https://github.com/CodeDotJS/insta-id-of)       : Find userid of a instagram user.
+- __[`facebook-id-of`](https://github.com/CodeDotJS/facebook-id-of)__ `: Find userid of a facebook user.`
+- __[`group-id-of`](https://github.com/CodeDotJS/group-id-of)__       `: Find group id of a facebook group.`
+- __[`insta-id-of`](https://github.com/CodeDotJS/insta-id-of)__       `: Find userid of a instagram user.`
 
 ## License
 
