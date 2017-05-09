@@ -67,7 +67,7 @@ const req = https.request(options, res => {
 		const arrMatches = store.match(rePattern);
 
 		if (arrMatches && arrMatches[0]) {
-			logUpdate(`\n› 9gag's page id is ${arrMatches[0].replace('entity_id":"', '')}\n`);
+			logUpdate(`\n› ${arg}'s page id is ${arrMatches[0].replace('entity_id":"', '')}\n`);
 			spinner.stop();
 		} else {
 			logUpdate(`${colors.cyan.bold('\n›')} ${colors.dim(`Sorry "${arg}" is not a facebook page!`)}\n`);
