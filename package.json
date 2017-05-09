@@ -1,6 +1,6 @@
 {
   "name": "page-id-of",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Command line tool to display ID of a Facebook Page.",
   "license": "MIT",
   "repository": {
